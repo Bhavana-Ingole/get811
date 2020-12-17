@@ -6,5 +6,9 @@ public class Sample {
 	{
 		System.out.println("Hello world");
 	}
-
+	
+	public void method()
+	{
+		System.out.println("Hii All....how are you doing");
+	}
 }
