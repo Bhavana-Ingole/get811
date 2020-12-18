@@ -11,14 +11,6 @@ public class Calc {
 	{
 		System.out.println("Subtraction : "+(num1-num2));
 	}
-	public void mul(int num1,int num2)
-	{
-		System.out.println("Multiplication : "+(num1*num2));
-	}
-	public void div(int num1,int num2)
-	{
-		System.out.println("Division : "+(num1/num2));
-	}
 	
 	
 }
